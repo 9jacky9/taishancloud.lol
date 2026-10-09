@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>云巅观察 - 泰山云</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .article-container { padding: 120px 5%; min-height: 80vh; max-width: 1200px; margin: 0 auto; }
+        .article-container h1 { font-size: 2.5rem; margin-bottom: 3rem; color: var(--primary); text-align: center; }
+        .article-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; }
+        .article-card { background: var(--surface); padding: 2rem; border-radius: 8px; border-top: 4px solid var(--primary); display: flex; align-items: center; justify-content: center; transition: transform 0.3s; min-height: 200px; }
+        .article-card:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.5); }
+        .article-card h2 { font-size: 1.3rem; margin: 0; text-align: center; line-height: 1.5; }
+        .article-card a { color: var(--text); text-decoration: none; font-weight: bold; }
+        .article-card a:hover { color: var(--primary); }
+    </style>
+</head>
+<body>
+    <header class="ts-header">
+        <a href="index.html" class="ts-logo" style="text-decoration:none; color:inherit;">
+            <svg width="32" height="32" viewBox="0 0 100 100" fill="none"><path d="M50 10L10 90h80L50 10z" fill="url(#sunrise)"/><path d="M50 40L30 90h40L50 40z" fill="#1e293b"/><defs><linearGradient id="sunrise" x1="50" y1="10" x2="50" y2="90"><stop stop-color="#f97316"/><stop offset="1" stop-color="#1e293b"/></linearGradient></defs></svg>
+            <span>泰山云</span>
+        </a>
+        <nav class="ts-nav-menu">
+            <a href="index.html#features">核心优势</a>
+            <a href="index.html#streaming">无界流媒体</a>
+            <a href="index.html#pricing">攀登者计划</a>
+            <a href="index.html#faq">迷津指路</a>
+            <a href="insights.html">云巅观察</a>
+        </nav>
+        <a href="https://ww012.twilightaff.com/#/?code=A56DH1Af" rel="nofollow" target="_blank" class="ts-btn ts-btn-primary ts-nav-cta">免费试用</a>
+    </header>
+    <main class="article-container">
+        <h1>云巅观察</h1>
+        <div class="article-grid">
+            <div class="article-card"><h2><a href="taishan-cloud-architecture-bgp-deployment.html">解析泰山云网络架构：高可用 BGP 路由与全球多节点部署的技术实践</a></h2></div>
+            <div class="article-card"><h2><a href="dns-resolution-cdn-architecture.html">DNS解析机制与全球内容分发架构解析</a></h2></div>
+            <div class="article-card"><h2><a href="cross-border-remote-work-infrastructure.html">跨国远程办公的网络基建挑战与解决方案</a></h2></div>
+            <div class="article-card"><h2><a href="home-network-router-selection-guide.html">家庭极客指南：如何选择高性能千兆路由器</a></h2></div>
+            <div class="article-card"><h2><a href="zero-trust-network-architecture.html">零信任架构：现代企业网络安全的新范式</a></h2></div>
+            <div class="article-card"><h2><a href="cryptography-tls-protocol-explained.html">网络传输中的密码学：TLS 1.3 协议全解</a></h2></div>
+        </div>
+    </main>
+    <footer class="ts-footer">
+        <nav>
+            <a href="sitemap.html" target="_blank">网站地图</a>
+            <a href="about.html" target="_blank">关于我们</a>
+            <a href="terms.html" target="_blank">服务条款</a>
+            <a href="privacy.html" target="_blank">隐私政策</a>
+        </nav>
+    </footer>
+</body>
+</html>
