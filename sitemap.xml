@@ -3,45 +3,45 @@
     <url>
         <loc>https://taishancloud.lol/</loc>
         <priority>1.0</priority>
-    </url>
+    <lastmod>2026-11-17</lastmod></url>
     <url>
         <loc>https://taishancloud.lol/insights.html</loc>
         <priority>0.9</priority>
-    </url>
+    <lastmod>2026-11-17</lastmod></url>
     <url>
         <loc>https://taishancloud.lol/taishan-cloud-architecture-bgp-deployment.html</loc>
         <priority>0.8</priority>
-    </url>
+    <lastmod>2026-11-17</lastmod></url>
     <url>
         <loc>https://taishancloud.lol/dns-resolution-cdn-architecture.html</loc>
         <priority>0.8</priority>
-    </url>
+    <lastmod>2026-11-17</lastmod></url>
     <url>
         <loc>https://taishancloud.lol/cross-border-remote-work-infrastructure.html</loc>
         <priority>0.8</priority>
-    </url>
+    <lastmod>2026-11-17</lastmod></url>
     <url>
         <loc>https://taishancloud.lol/home-network-router-selection-guide.html</loc>
         <priority>0.8</priority>
-    </url>
+    <lastmod>2026-11-17</lastmod></url>
     <url>
         <loc>https://taishancloud.lol/zero-trust-network-architecture.html</loc>
         <priority>0.8</priority>
-    </url>
+    <lastmod>2026-11-17</lastmod></url>
     <url>
         <loc>https://taishancloud.lol/cryptography-tls-protocol-explained.html</loc>
         <priority>0.8</priority>
-    </url>
+    <lastmod>2026-11-17</lastmod></url>
     <url>
         <loc>https://taishancloud.lol/about.html</loc>
         <priority>0.5</priority>
-    </url>
+    <lastmod>2026-11-17</lastmod></url>
     <url>
         <loc>https://taishancloud.lol/terms.html</loc>
         <priority>0.3</priority>
-    </url>
+    <lastmod>2026-11-17</lastmod></url>
     <url>
         <loc>https://taishancloud.lol/privacy.html</loc>
         <priority>0.3</priority>
-    </url>
+    <lastmod>2026-11-17</lastmod></url>
 </urlset>
